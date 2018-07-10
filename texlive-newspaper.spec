@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-newspaper
 Version:	1.0
-Release:	10
+Release:	11
 Summary:	Typeset newsletters to resemble newspapers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newspaper
