@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset newsletters to resemble newspapers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newspaper
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/newspaper
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newspaper.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newspaper.doc.r%{version}.tar.xz
